@@ -98,7 +98,7 @@ Work together on **Partner B**'s computer to make the following changes.
 > | ---------- | ---------- | ---------- |
 > | The file has been changed, but Git is not tracking these changes for the next commit yet. | The changes you made to the file are exactly what you want to include in the next commit. | The version of the file at the moment of the commit has been safely saved in your repo. |
 > 
-> Before changes can be updated in the repo, they must be added to staging first. If you click **Yes**, you'll continue to be reminded each time you make a commit. If you click **Always**, your changes will always be added to staging automatically before committing them to the repo.
+> Before changes can be updated in the repo, they must be added to staging first. If you click **Yes**, you'll continue to be reminded each time you make a 'commit'. If you click **Always**, your changes will always be added to staging automatically before committing them to the repo.
 > &nbsp;
 
 3. Go to the repo on GitHub. Can you find your branch?
@@ -116,11 +116,11 @@ Work together on **Partner B**'s computer to make the following changes.
 
 **Why do you think it's important to create a new branch when making changes to the code, rather than making changes directly in the main branch?**
 
-Write your answer here!
+Creating a new branch allows you to make mistakes, deletions, and additions in a separate branch so that you can find what's good and what's bad.
 
 **What does it mean to push your changes, and why is this an important step in using a version control system like Git?**
 
-Write your answer here!
+Pushing your changes is adding your changes to the main branch. It is done when you know that you've done the right things, and the branch is ready to be merged.
 
 ## Part 4: Open a pull request
 
@@ -160,8 +160,8 @@ A **pull request** is a method of submitting contributions to a project. It lets
 
 **Explain in your own words what a pull request is and why it's useful when collaborating on a codebase.**
 
-Write your answer here!
+a pull request is asking to merge two branches. You give a descriptive passage about why you want to merge the branches, and others say whether or not it's ok to merge the two branches
 
-**How did it feel to receive feedback on your own code? How can you use this feedback to improve your coding skills?**
+**How did it feel to receive feedback on your code? How can you use this feedback to improve your coding skills?**
+It felt good when I receive feedback on my code. With that feedback, I can improve the code as the feedback comes from another set of eyes that might have seen something that I didn't see.
 
-Write your answer here!
